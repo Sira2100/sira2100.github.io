@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types on Long Wang</title>
-    <link>https://longwang.me/publication_types/</link>
+    <link>http://longwang.me/publication_types/</link>
     <description>Recent content in Publication_types on Long Wang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,19 +12,19 @@
     
     <item>
       <title>1</title>
-      <link>https://longwang.me/publication_types/1/</link>
+      <link>http://longwang.me/publication_types/1/</link>
       <pubDate>Mon, 14 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://longwang.me/publication_types/1/</guid>
+      <guid>http://longwang.me/publication_types/1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2</title>
-      <link>https://longwang.me/publication_types/2/</link>
+      <link>http://longwang.me/publication_types/2/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://longwang.me/publication_types/2/</guid>
+      <guid>http://longwang.me/publication_types/2/</guid>
       <description></description>
     </item>
     

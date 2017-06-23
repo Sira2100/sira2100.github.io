@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Long Wang</title>
-    <link>https://longwang.me/post/</link>
+    <link>http://longwang.me/post/</link>
     <description>Recent content in Posts on Long Wang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
