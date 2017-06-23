@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Long Wang on Long Wang</title>
-    <link>https://sira2100.github.io/</link>
+    <link>https://longwang.me/</link>
     <description>Recent content in Long Wang on Long Wang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Modified genetic algorithm-based feature selection combined with pre-trained deep neural network for demand forecasting in outpatient department</title>
-      <link>https://sira2100.github.io/publication/7/</link>
+      <link>https://longwang.me/publication/7/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://sira2100.github.io/publication/7/</guid>
+      <guid>https://longwang.me/publication/7/</guid>
       <description>
 
 &lt;p&gt;&amp;ldquo;
@@ -63,74 +63,74 @@ caption = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
     
     <item>
       <title>Short-Term Electricity Price Forecasting with Stacked Denoising Autoencoders</title>
-      <link>https://sira2100.github.io/publication/4/</link>
+      <link>https://longwang.me/publication/4/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://sira2100.github.io/publication/4/</guid>
+      <guid>https://longwang.me/publication/4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Prediction Model Guided Jaya Algorithm for the PV System Maximum Power Point Tracking</title>
-      <link>https://sira2100.github.io/publication/5/</link>
+      <link>https://longwang.me/publication/5/</link>
       <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://sira2100.github.io/publication/5/</guid>
+      <guid>https://longwang.me/publication/5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wind Turbine Gearbox Failure Identification with Deep Neural Networks</title>
-      <link>https://sira2100.github.io/publication/2/</link>
+      <link>https://longwang.me/publication/2/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://sira2100.github.io/publication/2/</guid>
+      <guid>https://longwang.me/publication/2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automatic Detection of Wind Turbine Blade Surface Cracks Based on UAV-taken Images</title>
-      <link>https://sira2100.github.io/publication/6/</link>
+      <link>https://longwang.me/publication/6/</link>
       <pubDate>Tue, 14 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://sira2100.github.io/publication/6/</guid>
+      <guid>https://longwang.me/publication/6/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Example Talk</title>
-      <link>https://sira2100.github.io/talk/example-talk/</link>
+      <link>https://longwang.me/talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://sira2100.github.io/talk/example-talk/</guid>
+      <guid>https://longwang.me/talk/example-talk/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Wind turbine gearbox failure monitoring based on SCADA data analysis</title>
-      <link>https://sira2100.github.io/publication/8/</link>
+      <link>https://longwang.me/publication/8/</link>
       <pubDate>Mon, 14 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sira2100.github.io/publication/8/</guid>
+      <guid>https://longwang.me/publication/8/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wind Turbine Blade Breakage Monitoring with Deep Autoencoders</title>
-      <link>https://sira2100.github.io/publication/3/</link>
+      <link>https://longwang.me/publication/3/</link>
       <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sira2100.github.io/publication/3/</guid>
+      <guid>https://longwang.me/publication/3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data-Driven Wind Turbine Power Generation Performance Monitoring</title>
-      <link>https://sira2100.github.io/publication/1/</link>
+      <link>https://longwang.me/publication/1/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://sira2100.github.io/publication/1/</guid>
+      <guid>https://longwang.me/publication/1/</guid>
       <description></description>
     </item>
     

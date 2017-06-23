@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 on Long Wang</title>
-    <link>https://sira2100.github.io/publication_types/1/</link>
+    <link>https://longwang.me/publication_types/1/</link>
     <description>Recent content in 1 on Long Wang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Wind turbine gearbox failure monitoring based on SCADA data analysis</title>
-      <link>https://sira2100.github.io/publication/8/</link>
+      <link>https://longwang.me/publication/8/</link>
       <pubDate>Mon, 14 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sira2100.github.io/publication/8/</guid>
+      <guid>https://longwang.me/publication/8/</guid>
       <description></description>
     </item>
     
