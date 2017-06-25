@@ -16,49 +16,7 @@
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>http://longwang.me/publication/7/</guid>
-      <description>
-
-&lt;p&gt;&amp;ldquo;
-publication_short = &amp;ldquo;IEEE Transactions on Power Systems&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;abstract-and-optional-shortened-version&#34;&gt;Abstract and optional shortened version.&lt;/h1&gt;
-
-&lt;p&gt;abstract=&amp;ldquo;A short-term forecasting of the electricity price with data-driven algorithms is studied in this research. A stacked denoising autoencoder (SDA) model, a class of deep neural networks, and its extended version are utilized to forecast the electricity price hourly. Data collected in Nebraska, Arkansas, Louisiana, Texas, and Indiana hubs in U.S. are utilized. Two types of forecasting, the online hourly forecasting and day-ahead hourly forecasting, are examined. In online forecasting, SDA models are compared with data-driven approaches including the classical neural networks, support vector machine, multivariate adaptive regression splines, and least absolute shrinkage and selection operator. In the day-ahead forecasting, the effectiveness of SDA models is further validated through comparing with industrial results and a recently reported method. Computational results demonstrate that SDA models are capable to accurately forecast electricity prices and the extended SDA model further improves the forecasting performance.&amp;rdquo;
-abstract_short = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;does-this-page-contain-latex-math-true-false&#34;&gt;Does this page contain LaTeX math? (true/false)&lt;/h1&gt;
-
-&lt;p&gt;math = false&lt;/p&gt;
-
-&lt;h1 id=&#34;does-this-page-require-source-code-highlighting-true-false&#34;&gt;Does this page require source code highlighting? (true/false)&lt;/h1&gt;
-
-&lt;p&gt;highlight = false&lt;/p&gt;
-
-&lt;h1 id=&#34;featured-image-thumbnail-optional&#34;&gt;Featured image thumbnail (optional)&lt;/h1&gt;
-
-&lt;p&gt;image_preview = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;is-this-a-selected-publication-true-false&#34;&gt;Is this a selected publication? (true/false)&lt;/h1&gt;
-
-&lt;p&gt;selected = false&lt;/p&gt;
-
-&lt;h1 id=&#34;links-optional&#34;&gt;Links (optional)&lt;/h1&gt;
-
-&lt;p&gt;url_pdf = &amp;ldquo;pdf/4.pdf&amp;rdquo;
-url_code = &amp;ldquo;&amp;rdquo;
-url_dataset = &amp;ldquo;&amp;rdquo;
-url_project = &amp;ldquo;&amp;rdquo;
-url_slides = &amp;ldquo;&amp;rdquo;
-url_video = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;optional-featured-image-relative-to-static-img-folder&#34;&gt;Optional featured image (relative to &lt;code&gt;static/img/&lt;/code&gt; folder).&lt;/h1&gt;
-
-&lt;p&gt;[header]
-image = &amp;ldquo;&amp;rdquo;
-caption = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;+++&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
