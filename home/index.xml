@@ -2,13 +2,70 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Long Wang</title>
-    <link>http://longwang.me/home/</link>
+    <link>http://lwang.xyz/home/</link>
     <description>Recent content in Homes on Long Wang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Long Wang</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://lwang.xyz/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://lwang.xyz/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://lwang.xyz/home/about/</guid>
+      <description>Biography Dr. Long Wang is an associate professor of computer science with University of Science and Technology Beijing. His research interests include computer vision, parallel computing, and anomaly detection of complex systems. He received the Hong Kong PhD Fellowship in 2014. He is a member of IEEE, IEEE Industrial Electronics Society, IEEE Systems Council, IEEE Sensors Council and Chinese Society for Electrical Engineering. He is an associate editor for IEEE Access and an academic editor for PLOS ONE.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>http://lwang.xyz/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://lwang.xyz/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://lwang.xyz/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://lwang.xyz/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>http://lwang.xyz/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://lwang.xyz/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>http://lwang.xyz/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://lwang.xyz/home/teaching/</guid>
+      <description>I was a teaching assitant for the following courses at City University of Hong Kong:
+ SEEM 6015 Supply Chain Management SEEM 4025 Quality Systems &amp;amp; Management SEEM 3040 Engineering Database &amp;amp; Systems  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://lwang.xyz/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://lwang.xyz/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
