@@ -11,6 +11,53 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title></title>
+      <link>http://lwang.xyz/post/di/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0800</pubDate>
+      
+      <guid>http://lwang.xyz/post/di/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;http://lwang.xyz/img/autosoft.png&#34; alt=&#34;alternative text for search engines&#34; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;call-for-papers-special-issue-on-data-enabled-intelligence-in-complex-agricultural-systems&#34;&gt;Call for Papers: Special Issue on Data-enabled Intelligence in Complex Agricultural Systems&lt;/h1&gt;
+
+&lt;p&gt;Advances in sensor and data-storage technologies have facilitated the wide applications of sensors in modern agricultural systems, such as irrigation and drainage systems, plant protection systems, greenhouse systems, etc. Various sensors allow the collection of large volumes of data related to operations of agricultural systems in different formats, including time-series, images, videos and sound waves. However, traditional methods and strategies lack the ability to make full use of such large amounts of data. Artificial Intelligence (AI) algorithms are emergingly employed to perform high-level big data analytics tasks, such as prediction, classification, object detection, and clustering. The successful applications of AI algorithms based big data have been verified in different domains, such as manufacturing, healthcare, power supply, and energy management. Thus, it is valuable and meaningful to develop and apply data-enabled intelligence algorithms to relevant aspects of the agricultural systems. This special issue aims to attract original research articles that report the latest applications of data-enabled Intelligence algorithms in the field of agricultural systems as well as review papers which describe the current state of the art. The goal is that it provides an opportunity for us to gain a significantly better understanding of the current developments and the future direction of data-enable intelligence in relation to complex agricultural systems.&lt;/p&gt;
+
+&lt;h2 id=&#34;topics-of-interest-for-articles-include-but-are-not-limited-to&#34;&gt;Topics of interest for articles include, but are not limited to:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Data Mining for Crop Production Prediction and Plant Disease Classification&lt;/li&gt;
+&lt;li&gt;Machine Learning and Deep Learning for Intelligent Decision Making&lt;/li&gt;
+&lt;li&gt;Metaheuristic Algorithms for Irrigation Scheduling and Agricultural Land Management&lt;/li&gt;
+&lt;li&gt;Computer Vision for Crop and Soil Monitoring&lt;/li&gt;
+&lt;li&gt;Text Mining for Automated Agricultural Knowledge Discovery from Internet&lt;/li&gt;
+&lt;li&gt;System Science and Engineering for Operations Management of Agricultural Production&lt;/li&gt;
+&lt;li&gt;Mobile and Edge Computing in Agriculture&lt;/li&gt;
+&lt;li&gt;Advanced Sensing Systems for Data Collection&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;guest-editors&#34;&gt;Guest editors:&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Dr. Long Wang&lt;/strong&gt;, University of Science and Technology Beijing, Beijing, China and City University of Hong Kong, Kowloon, Hong Kong &lt;a href=&#34;mailto:long.wang@ieee.org&#34; target=&#34;_blank&#34;&gt;long.wang@ieee.org&lt;/a&gt;&lt;br /&gt;
+&lt;strong&gt;Prof. Zhe Song&lt;/strong&gt;, Nanjing University, Nanjing, China &lt;a href=&#34;mailto:zsong1@nju.edu.cn&#34; target=&#34;_blank&#34;&gt;zsong1@nju.edu.cn&lt;/a&gt;&lt;br /&gt;
+&lt;strong&gt;Dr. Chao Huang&lt;/strong&gt;, University of Science and Technology Beijing, Beijing, China &lt;a href=&#34;mailto:chaohuang@ustb.edu.cn&#34; target=&#34;_blank&#34;&gt;chaohuang@ustb.edu.cn&lt;/a&gt;&lt;br /&gt;
+&lt;strong&gt;Dr. Shancheng Jiang&lt;/strong&gt;, The Hong Kong Polytechnic University, Kowloon, China &lt;a href=&#34;mailto:shancheng.jiang@polyu.edu.hk&#34; target=&#34;_blank&#34;&gt;shancheng.jiang@polyu.edu.hk&lt;/a&gt;&lt;br /&gt;
+&lt;strong&gt;Dr. Jenq-Haur Wang&lt;/strong&gt;, National Taipei University of Technology, Taipei, Taiwan &lt;a href=&#34;mailto:jhwang@ntut.edu.tw&#34; target=&#34;_blank&#34;&gt;jhwang@ntut.edu.tw&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;submission-instructions&#34;&gt;Submission Instructions&lt;/h2&gt;
+
+&lt;p&gt;Authors should follow the manuscript format and the submission procedure of Intelligent Automation &amp;amp; Soft Computing Journal manuscript format described below at the Journal site: &lt;a href=&#34;http://wacong.org/autosoft/auto/index.php&#34; target=&#34;_blank&#34;&gt;http://wacong.org/autosoft/auto/index.php&lt;/a&gt;. The submission must include the title, abstract of your paper, and the corresponding author&amp;rsquo;s name and affiliation. All papers will be rigorously reviewed based on the quality: originality, high scientific quality, well organized and clearly written, sufficient support for assertions and conclusions..&lt;/p&gt;
+
+&lt;h2 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h2&gt;
+
+&lt;p&gt;Manuscript Due: August 25, 2019&lt;br /&gt;
+First Round of Reviews: December 15, 2019&lt;br /&gt;
+Final Submission Deadline: February 15, 2020&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Modified genetic algorithm-based feature selection combined with pre-trained deep neural network for demand forecasting in outpatient department</title>
       <link>http://lwang.xyz/publication/7/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>

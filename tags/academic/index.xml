@@ -12,5 +12,14 @@
 	<atom:link href="http://lwang.xyz/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title></title>
+      <link>http://lwang.xyz/post/di/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0800</pubDate>
+      
+      <guid>http://lwang.xyz/post/di/</guid>
+      <description>Call for Papers: Special Issue on Data-enabled Intelligence in Complex Agricultural Systems Advances in sensor and data-storage technologies have facilitated the wide applications of sensors in modern agricultural systems, such as irrigation and drainage systems, plant protection systems, greenhouse systems, etc. Various sensors allow the collection of large volumes of data related to operations of agricultural systems in different formats, including time-series, images, videos and sound waves. However, traditional methods and strategies lack the ability to make full use of such large amounts of data.</description>
+    </item>
+    
   </channel>
 </rss>
