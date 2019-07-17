@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Content tagged as &#39;Academic&#39; on Long Wang</title>
-    <link>http://lwang.xyz/tags/academic/</link>
+    <link>http://lwang.co/tags/academic/</link>
     <description>Recent content in Content tagged as &#39;Academic&#39; on Long Wang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Long Wang</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://lwang.xyz/tags/academic/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://lwang.co/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Call for Papers: Special Issue on Data-enabled Intelligence in Complex Agricultural Systems</title>
-      <link>http://lwang.xyz/post/di/</link>
+      <link>http://lwang.co/post/di/</link>
       <pubDate>Tue, 19 Mar 2019 00:00:00 +0800</pubDate>
       
-      <guid>http://lwang.xyz/post/di/</guid>
+      <guid>http://lwang.co/post/di/</guid>
       <description>Call for Papers: Special Issue on Data-enabled Intelligence in Complex Agricultural Systems Advances in sensor and data-storage technologies have facilitated the wide applications of sensors in modern agricultural systems, such as irrigation and drainage systems, plant protection systems, greenhouse systems, etc. Various sensors allow the collection of large volumes of data related to operations of agricultural systems in different formats, including time-series, images, videos and sound waves. However, traditional methods and strategies lack the ability to make full use of such large amounts of data.</description>
     </item>
     
