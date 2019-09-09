@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Long Wang</title>
+    <title>Tags on Applied Data Science Lab</title>
     <link>http://lwang.co/tags/</link>
-    <description>Recent content in Tags on Long Wang</description>
+    <description>Recent content in Tags on Applied Data Science Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Long Wang</copyright>
@@ -19,6 +19,15 @@
       
       <guid>http://lwang.co/tags/academic/</guid>
       <description>Here is a list of all the content that has been tagged as academic.</description>
+    </item>
+    
+    <item>
+      <title>Gs</title>
+      <link>http://lwang.co/tags/gs/</link>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://lwang.co/tags/gs/</guid>
+      <description></description>
     </item>
     
   </channel>

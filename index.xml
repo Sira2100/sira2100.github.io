@@ -1,14 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Long Wang on Long Wang</title>
+    <title>Applied Data Science Lab on Applied Data Science Lab</title>
     <link>http://lwang.co/</link>
-    <description>Recent content in Long Wang on Long Wang</description>
+    <description>Recent content in Applied Data Science Lab on Applied Data Science Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Long Wang</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Mingshuai Liu</title>
+      <link>http://lwang.co/project/mliu/</link>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://lwang.co/project/mliu/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;http://lwang.co/img/mliu.jpg&#34; alt=&#34;alternative text for search engines&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;biography&#34;&gt;&lt;strong&gt;Biography&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Mingshuai Liu received the B.S. degree in Information Science and Technology from Hebei University of Science and Technology, China, in 2018. He is currently working toward a master&amp;rsquo;s degree in computer technology at University of Science and Technology Beijing (USTB).&lt;/p&gt;
+
+&lt;h2 id=&#34;publication&#34;&gt;&lt;strong&gt;Publication&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;[1] &lt;strong&gt;M. Liu&lt;/strong&gt;, W. Zheng, C. Huang, L. Wang, S. Li, Y. Wu, Y. Zhong, and L. Zhang, &amp;ldquo;Soil Moisture Time Series Forecasting with GPR Model and
+Radially Uniform Design,&amp;rdquo; IEEE Access, under revision.&lt;/p&gt;
+
+&lt;p&gt;[2] &lt;strong&gt;M. Liu&lt;/strong&gt;, Z. Cao, J. Zhang, L. Wang, C. Huang, and X. Luo, “Short-term Wind Speed Forecasting Based on the Jaya-SVM mode,” International Journal of Electrical Power &amp;amp; Energy Systems, under revision.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Call for Papers: Special Issue on Data-enabled Intelligence in Complex Agricultural Systems</title>

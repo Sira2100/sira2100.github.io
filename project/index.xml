@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Applied Data Science Lab</title>
+    <link>http://lwang.co/project/</link>
+    <description>Recent content in Projects on Applied Data Science Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Long Wang</copyright>
+    <lastBuildDate>Mon, 09 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://lwang.co/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mingshuai Liu</title>
+      <link>http://lwang.co/project/mliu/</link>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://lwang.co/project/mliu/</guid>
+      <description>Biography Mingshuai Liu received the B.S. degree in Information Science and Technology from Hebei University of Science and Technology, China, in 2018. He is currently working toward a master&amp;rsquo;s degree in computer technology at University of Science and Technology Beijing (USTB).
+Publication [1] M. Liu, W. Zheng, C. Huang, L. Wang, S. Li, Y. Wu, Y. Zhong, and L. Zhang, &amp;ldquo;Soil Moisture Time Series Forecasting with GPR Model and Radially Uniform Design,&amp;rdquo; IEEE Access, under revision.</description>
+    </item>
+    
+  </channel>
+</rss>

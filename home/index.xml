@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Long Wang</title>
+    <title>Homes on Applied Data Science Lab</title>
     <link>http://lwang.co/home/</link>
-    <description>Recent content in Homes on Long Wang</description>
+    <description>Recent content in Homes on Applied Data Science Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Long Wang</copyright>
@@ -18,7 +18,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://lwang.co/home/about/</guid>
-      <description>Biography Dr. Long Wang is an associate professor of computer science with University of Science and Technology Beijing. His research interests include computer vision, parallel computing, and anomaly detection of complex systems. He received the Hong Kong PhD Fellowship in 2014. He is a member of IEEE, IEEE Industrial Electronics Society, IEEE Systems Council, IEEE Sensors Council and Chinese Society for Electrical Engineering. He is an associate editor for IEEE Access and an academic editor for PLOS ONE.</description>
+      <description>Biography Dr. Long Wang is an associate professor of computer science with University of Science and Technology Beijing. His research interests include computer vision, parallel computing, and anomaly detection of complex systems. He received the Hong Kong PhD Fellowship in 2014. He is a member of IEEE, IEEE Industrial Electronics Society, IEEE Systems Council, IEEE Sensors Council and Chinese Society for Electrical Engineering. He is an associate editor for IEEE Access and Canadian Journal of Electrical and Computer Engineering, as well as an academic editor for PLOS ONE.</description>
     </item>
     
     <item>
@@ -36,6 +36,15 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://lwang.co/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>http://lwang.co/home/people/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://lwang.co/home/people/</guid>
       <description></description>
     </item>
     
